@@ -15,7 +15,7 @@ CLIN-LLM is a hybrid framework combining fine-tuned biomedical LLMs, real-time e
 
 📚 Datasets
 
-Symptoms2Disease (1,200 annotated clinical cases)
+Symptoms2Disease (1,200 annotated clinical cases) from Kaggle
 MedDialog (context-aware treatment dialogs)
 Datasets will be auto-downloaded or can be manually placed in /data.
 🧠 Model Components
