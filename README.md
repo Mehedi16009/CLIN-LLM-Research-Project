@@ -4,6 +4,10 @@ CLIN-LLM is a hybrid biomedical LLM pipeline for safe, evidence-based diagnosis 
 # CLIN-LLM: Safety-Constrained Biomedical Language Model for Diagnosis and Treatment
 
 CLIN-LLM is a hybrid framework combining fine-tuned biomedical LLMs, real-time evidence retrieval, and safety-aware treatment generation. It achieves 98% F1-score on the Symptoms2Disease dataset and outperforms existing models like ClinicalBERT and GPT-3.5.
+## Methodology:
+
+<img width="2832" height="1360" alt="CILIN-LLM Methodology" src="https://github.com/user-attachments/assets/6328e4c8-fff1-4f19-b7c6-70f0d368287d" />
+
 
 ## 🚀 Highlights
 - ✅ 98% Accuracy and F1-score on multi-label diagnosis
